@@ -10,7 +10,9 @@ public class Main {
         wheelSkateboard wskateboard = new wheelSkateboard("Santa Cruz",8,1,100,5,8.25,"Wood",true,"Cruiser",4,60);
         System.out.println(wskateboard);
 
-        hoverboard hboard = new hoverboard("")
+        hoverboard hboard = new hoverboard("Apple",30,1,100,10,9,"Plastic",false,2.5,20);
+        System.out.println(hboard);
+
 
     }
 }
