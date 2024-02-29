@@ -7,7 +7,7 @@ public class Vehicle implements Speedometer {
 
     //Base default constructor
     public Vehicle() {
-        brandName = "";
+        brandName = "name";
         speed = 0.0;
         passengers = 0;
         cargoWeight = 0.0;
